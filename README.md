@@ -1,2 +1,4 @@
-# Path_finder
-A visualization of the A* path finding algorithm.
+# Requirements
+pygame
+
+# Enter space when the points are set.
